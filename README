@@ -1,0 +1,19 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5111
+
+Syntax file for GLSL ES 100
+
+No extensions.
+As defined in the specifications: https://www.khronos.org/registry/gles/specs/2.0/GLSL_ES_Specification_1.0.17.pdf
+Swizzles are highlighted if more than one component is used.
+The followind highlights groups are used:
+- Number
+- Comment
+- Operator
+- Type
+- Keyword
+- PreProc
+- Special
+- Constant
+- Function
+
+https://github.com/zeduckmaster/vim-glsl
